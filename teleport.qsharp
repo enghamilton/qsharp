@@ -1,0 +1,7 @@
+operation TeleportClassicalMessage(message : Bool) : Bool {
+  body {
+    using(resgister = Qubits[1]){
+    
+    }
+  }
+}
